@@ -1,17 +1,17 @@
-typography_spectrum: 0.866176875308156
+typography_spectrum: 0.9394280051346868
 content_rating:
   adult: false
 color:
-  brandStrength: 0.08896255004219711
-  lightness: 0.16439570486545563
-  saturation: 0.8487856569699943
-  rhythmicContrast: 0.6459825546480715
+  brandStrength: 0.8209324984345585
+  lightness: 0.4974616221152246
+  saturation: 0.2814856362529099
+  rhythmicContrast: 0.2011103485710919
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 layout_spectrum: 0.4765815772116184
 author:
   name: Pankaj Sharma
