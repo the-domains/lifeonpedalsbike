@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T11:58:45.198Z'
+datePublished: '2016-08-04T11:58:39.505Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
@@ -26,7 +26,7 @@ author:
     url: 'http://travelaway.me'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T11:58:45.105Z'
+dateModified: '2016-08-04T11:58:38.604Z'
 title: 'My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away'
 app_links: []
 publisher:
