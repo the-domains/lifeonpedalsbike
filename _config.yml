@@ -19,6 +19,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee2130b-d9c4-4d5b-aaff-31b6f0d32edb.gif
 name: lifeonpedals.bike
+navigation:
+  - name: 'Paris Lourdes Cycle Trip '
+    id: 7ec0a487-79f1-4892-91e2-33bdad93c7a7
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/13401e8c-f943-45fd-ab19-d18905a788b2.ico
 title: Welcome to My Cycle Trips
