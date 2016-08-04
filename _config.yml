@@ -1,18 +1,18 @@
-typography_spectrum: 0.866176875308156
+typography_spectrum: 0.736997575731948
 content_rating:
   adult: false
 color:
-  brandStrength: 0.08896255004219711
-  lightness: 0.16439570486545563
-  saturation: 0.8487856569699943
-  rhythmicContrast: 0.6459825546480715
+  brandStrength: 0.837539607193321
+  lightness: 0.7679354203864932
+  saturation: 0.9916833690367639
+  rhythmicContrast: 0.9979483517818153
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.4765815772116184
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.041639643954113126
 author:
   name: Pankaj Sharma
   email: pankajsharma.blue@hotmail.com
