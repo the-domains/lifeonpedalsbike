@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-04T09:06:00.170Z'
+datePublished: '2016-08-04T09:45:50.669Z'
 sourcePath: >-
   _posts/2016-04-15-travel-smarter-the-backpack-that-doubles-as-a-mobile-office.md
 inFeed: true
-isBasedOnUrl: >-
-  http://fathomaway.com/postcards/stuff/this-is-ground-venture-travel-office-backpack/
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - backpack
   - wifi
@@ -23,7 +21,7 @@ author:
   - name: Berit Baugher
     url: 'http://fathomaway.com/author/berit-baugher/'
     avatar: {}
-dateModified: '2016-08-04T09:05:57.970Z'
+dateModified: '2016-08-04T09:45:50.267Z'
 title: 'Travel Smarter: The Backpack That Doubles as a Mobile Office'
 app_links: []
 publisher:
@@ -40,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: travel-smarter-the-backpack-that-doubles-as-a-mobile-office/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
