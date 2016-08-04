@@ -1,4 +1,6 @@
 typography_spectrum: 0.866176875308156
+content_rating:
+  adult: false
 color:
   brandStrength: 0.08896255004219711
   lightness: 0.16439570486545563
@@ -11,6 +13,11 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.4765815772116184
+author:
+  name: Pankaj Sharma
+  email: pankajsharma.blue@hotmail.com
 name: lifeonpedals.bike
-title: ''
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/13401e8c-f943-45fd-ab19-d18905a788b2.ico
+title: Put something fun between your legs
 description: Put something fun between your legs
