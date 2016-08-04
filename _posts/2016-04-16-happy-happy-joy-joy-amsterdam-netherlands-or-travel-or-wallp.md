@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T10:50:01.374Z'
+datePublished: '2016-08-04T11:07:20.859Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -23,14 +23,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-04T10:50:00.977Z'
-title: I am addicted of bikes
+dateModified: '2016-08-04T11:07:20.504Z'
+title: biketravel
 app_links: []
-publisher:
-  name: Wallpaper*
-  domain: www.wallpaper.com
-  url: 'http://www.wallpaper.com'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
+publisher: {}
 description: >-
   Things just got a little spicier in the thriving Amsterdam enclave of Old
   West. Chef Julius Jaspers has teamed up with design studio Concrete to create
@@ -43,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Welcome on my page. I am writting about all the bike trips, which i have done in recent years. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f8789e-ddaf-4fc8-b11d-a5ae9abb999f.jpg)
+![Welcome on my page.  ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f8789e-ddaf-4fc8-b11d-a5ae9abb999f.jpg)
