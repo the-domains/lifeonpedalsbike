@@ -1,0 +1,14 @@
+layout_spectrum: 0.4765815772116184
+typography_spectrum: 0.866176875308156
+color:
+  brandStrength: 0.08896255004219711
+  lightness: 0.16439570486545563
+  saturation: 0.8487856569699943
+  rhythmicContrast: 0.6459825546480715
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: lifeonpedals.bike
