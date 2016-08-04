@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T09:45:50.669Z'
+datePublished: '2016-08-04T11:48:01.926Z'
 sourcePath: >-
   _posts/2016-04-15-travel-smarter-the-backpack-that-doubles-as-a-mobile-office.md
 inFeed: true
@@ -21,7 +21,8 @@ author:
   - name: Berit Baugher
     url: 'http://fathomaway.com/author/berit-baugher/'
     avatar: {}
-dateModified: '2016-08-04T09:45:50.267Z'
+via: {}
+dateModified: '2016-08-04T11:48:01.474Z'
 title: 'Travel Smarter: The Backpack That Doubles as a Mobile Office'
 app_links: []
 publisher:
@@ -29,18 +30,15 @@ publisher:
   domain: fathomaway.com
   url: 'http://fathomaway.com'
   favicon: 'http://fathomaway.com/favicon.ico'
-description: >-
-  Our pals at This is Ground recently launched a "smart" backpack that will make
-  you feel like the coolest, most in-the-know traveler out there. Crossing town
-  (or the globe) with a laptop, iPad, headphones, and WiFi port can weigh you
-  down - but it's a reality for many, especially those who work from the road.
+description: Paris-Dieppe Tour May 2015
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 url: travel-smarter-the-backpack-that-doubles-as-a-mobile-office/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Travel Smarter: The Backpack That Doubles as a Mobile Office</h1><p>Our pals at This is Ground recently launched a "smart" backpack that will make you feel like the coolest, most in-the-know traveler out there. Crossing town (or the globe) with a laptop, iPad, headphones, and WiFi port can weigh you down - but it's a reality for many, especially those who work from the road.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e22f9a492a4d7f602c89eee545449af90da0d5de.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/255b4299-22ac-41e0-9e4c-fd7cdcb524b7.jpg)
+
+Paris-Dieppe Tour May 2015
