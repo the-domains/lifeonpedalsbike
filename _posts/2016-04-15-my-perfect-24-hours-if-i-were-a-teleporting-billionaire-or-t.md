@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T12:50:44.836Z'
+datePublished: '2016-08-08T12:53:58.261Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T12:50:44.052Z'
+dateModified: '2016-08-08T12:53:57.718Z'
 title: ''
 app_links: []
 publisher: {}
@@ -36,7 +36,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b178866-e873-43c9-99bd-4786b12fcc76.jpg)
+![Weldome to my Blog](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b178866-e873-43c9-99bd-4786b12fcc76.jpg)
 
 The purpose of my blog, that I want to inspire people to experience the beauty that we experience on our bikes and on our rides. It's a wonderful thing. My biggest goal is to inspire people to go out there and realize, "I can do this. It's safe. It's fun."
 
