@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T12:53:21.116Z'
+datePublished: '2016-08-08T13:12:48.872Z'
 sourcePath: >-
   _posts/2016-04-15-travel-smarter-the-backpack-that-doubles-as-a-mobile-office.md
 inFeed: true
@@ -19,11 +19,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T12:53:20.574Z'
+dateModified: '2016-08-08T13:12:48.385Z'
 title: ''
 app_links: []
 publisher: {}
-description: 'Paris-Dieppe Tour Springs 2015 May '
+description: Paris-Dieppe Tour Springs 2015 May
 inLanguage: en
 inNav: false
 starred: false
@@ -34,7 +34,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/079d8de0-dbac-437c-9497-e85504a8a2a2.jpg)
 
-Paris-Dieppe Tour Springs 2015 May 
+Paris-Dieppe Tour Springs 2015 May
 
 Weather : Pleasnt
 
