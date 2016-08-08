@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T11:15:40.888Z'
+datePublished: '2016-08-08T08:47:21.122Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -23,29 +23,15 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-04T11:15:40.439Z'
+dateModified: '2016-08-08T08:47:20.601Z'
 title: My bike trips homepage
 app_links: []
 publisher: {}
 description: >-
-  Almost every Indian has a village they can be traced back to. This is true
-  whether they were born in the countryside or in the chaos of a Bombay traffic
-  jam. Huge chunks of the population still live in rural farming towns, hamlets
-  with a few dusty lanes, some ambling livestock, and the promise of
-  back-wrenching work at sunup. But all across India, the traditional farming
-  village is disappearing. They are emptying –– becoming like the shells of
-  forgotten towns one sees dotted around France and across the European
-  countryside. Places where the elderly peer from the stoops of their worn-out
-  porches, and crumbling, one-room schoolhouses serve as ghostly reminders of a
-  time before kids moved away for boarding schools. What took Europe a hundred
-  years, and America fifty, is happening to India within the span of a single
-  generation. In India, you can literally watch globalization. The young are
-  migrating en masse from the farming communities to the cities, looking for
-  work, for opportunity, simply to move up. This is happening with special haste
-  in Andhra Pradesh, the heartland of India’s cotton industry. Here, a
-  dependence on cotton has forced many farmers to acknowledge that their staple
-  crop can no longer support their families, their lifestyles, or their
-  ambitions to join India’s rising middle class.
+  The objective of my blog, that I want to inspire people to experience the
+  beauty that we experience on our bikes and on our rides. It’s a wonderful
+  thing. My biggest goal is to inspire people to go out there and realize, “I
+  can do this. It’s safe. It’s fun.”
 inLanguage: en
 inNav: false
 starred: true
@@ -54,6 +40,8 @@ _type: MediaObject
 
 ---
 # My bike trips homepage
-![Almost every Indian has a village they can be traced back to. This is true whether they were born in the countryside or in the chaos of a Bombay traffic jam. Huge chunks of the population still live in rural farming towns, hamlets with a few dusty lanes, some ambling livestock, and the promise of back-wrenching work at sunup. But all across India, the traditional farming village is disappearing. They are emptying –– becoming like the shells of forgotten towns one sees dotted around France and across the European countryside. Places where the elderly peer from the stoops of their worn-out porches, and crumbling, one-room schoolhouses serve as ghostly reminders of a time before kids moved away for boarding schools. What took Europe a hundred years, and America fifty, is happening to India within the span of a single generation. In India, you can literally watch globalization. The young are migrating en masse from the farming communities to the cities, looking for work, for opportunity, simply to move up. This is happening with special haste in Andhra Pradesh, the heartland of India’s cotton industry. Here, a dependence on cotton has forced many farmers to acknowledge that their staple crop can no longer support their families, their lifestyles, or their ambitions to join India’s rising middle class.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f8789e-ddaf-4fc8-b11d-a5ae9abb999f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f8789e-ddaf-4fc8-b11d-a5ae9abb999f.jpg)
 
-Almost every Indian has a village they can be traced back to. This is true whether they were born in the countryside or in the chaos of a Bombay traffic jam. Huge chunks of the population still live in rural farming towns, hamlets with a few dusty lanes, some ambling livestock, and the promise of back-wrenching work at sunup. But all across India, the traditional farming village is disappearing. They are emptying ---- becoming like the shells of forgotten towns one sees dotted around France and across the European countryside. Places where the elderly peer from the stoops of their worn-out porches, and crumbling, one-room schoolhouses serve as ghostly reminders of a time before kids moved away for boarding schools. What took Europe a hundred years, and America fifty, is happening to India within the span of a single generation. In India, you can literally watch globalization. The young are migrating en masse from the farming communities to the cities, looking for work, for opportunity, simply to move up. This is happening with special haste in Andhra Pradesh, the heartland of India's cotton industry. Here, a dependence on cotton has forced many farmers to acknowledge that their staple crop can no longer support their families, their lifestyles, or their ambitions to join India's rising middle class.
+The objective of my blog, that I want to inspire people to experience the beauty that we experience on our bikes and on our rides. It's a wonderful thing. My biggest goal is to inspire people to go out there and realize, "I can do this. It's safe. It's fun."
+
+Ultimately, we shouldn't divide the bicycle world into racers and non-racers and this and that. In the end, we all share the joy of cycling. It can come in so many different guises. If I see someone who's riding their bike with a smile, I don't care whether they're on a WalMart cruiser or carbon racing bike or 650B randonneur bike. I want to inspire people and not tell them what to do or not to do.
