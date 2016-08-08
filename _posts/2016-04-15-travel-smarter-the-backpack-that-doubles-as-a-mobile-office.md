@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T09:09:58.844Z'
+datePublished: '2016-08-08T09:10:30.041Z'
 sourcePath: >-
   _posts/2016-04-15-travel-smarter-the-backpack-that-doubles-as-a-mobile-office.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
     url: 'http://fathomaway.com/author/berit-baugher/'
     avatar: {}
 via: {}
-dateModified: '2016-08-08T09:09:58.318Z'
+dateModified: '2016-08-08T09:10:29.634Z'
 title: 'Travel Smarter: The Backpack That Doubles as a Mobile Office'
 app_links: []
 publisher:
