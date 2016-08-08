@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T11:49:56.045Z'
+datePublished: '2016-08-08T09:09:58.844Z'
 sourcePath: >-
   _posts/2016-04-15-travel-smarter-the-backpack-that-doubles-as-a-mobile-office.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
     url: 'http://fathomaway.com/author/berit-baugher/'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T11:49:55.912Z'
+dateModified: '2016-08-08T09:09:58.318Z'
 title: 'Travel Smarter: The Backpack That Doubles as a Mobile Office'
 app_links: []
 publisher:
@@ -39,6 +39,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/255b4299-22ac-41e0-9e4c-fd7cdcb524b7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8740008-fb46-4212-8747-eccf305ee6e2.jpg)
 
 Paris-Dieppe Tour May 2015
