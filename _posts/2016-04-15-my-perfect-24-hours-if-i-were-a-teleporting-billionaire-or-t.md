@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T12:53:58.261Z'
+datePublished: '2016-08-08T13:29:49.939Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
@@ -20,15 +20,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T12:53:57.718Z'
-title: ''
+dateModified: '2016-08-08T13:29:49.516Z'
+title: Paris Damville Day Trip
 app_links: []
 publisher: {}
-description: >-
-  The purpose of my blog, that I want to inspire people to experience the beauty
-  that we experience on our bikes and on our rides. It’s a wonderful thing. My
-  biggest goal is to inspire people to go out there and realize, “I can do this.
-  It’s safe. It’s fun.”
+description: 'Time : Summer 2014'
 inLanguage: en
 inNav: false
 starred: false
@@ -36,8 +32,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Weldome to my Blog](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b178866-e873-43c9-99bd-4786b12fcc76.jpg)
+# Paris Damville Day Trip
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7a74e08-4c26-43a1-8179-f0dbe5708fd1.jpg)
 
-The purpose of my blog, that I want to inspire people to experience the beauty that we experience on our bikes and on our rides. It's a wonderful thing. My biggest goal is to inspire people to go out there and realize, "I can do this. It's safe. It's fun."
+Time : Summer 2014
 
-Ultimately, we shouldn't divide the bicycle world into racers and non-racers and this and that. In the end, we all share the joy of cycling. It can come in so many different guises. If I see someone who's riding their bike with a smile, I don't care whether they're on a WalMart cruiser or carbon racing bike or 650B randonneur bike. I want to inspire people and not tell them what to do or not to do.
+Distance : 200 kms
+
+Difficulty : Midium
