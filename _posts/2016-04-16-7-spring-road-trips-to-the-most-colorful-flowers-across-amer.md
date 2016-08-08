@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T09:06:00.220Z'
+datePublished: '2016-08-08T13:06:58.921Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -18,26 +18,25 @@ keywords:
   - route
 related: []
 author: []
-dateModified: '2016-08-04T09:05:58.446Z'
-title: 7 spring road trips to the most colorful flowers across America
+via: {}
+dateModified: '2016-08-08T13:06:58.282Z'
+title: Paris Amsterdam Trip Springs 2013 May
 app_links: []
-publisher:
-  url: 'http://mashable.com'
-  name: Mashable
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
-  domain: mashable.com
-description: >-
-  There are many clichés about spring, but their ubiquity doesn't diminish how
-  beautiful the changing of the seasons can be. If you need a reminder for how
-  great this season can be, we've got seven road trips across the United States
-  that are perfect for stopping and smelling the roses - and the poppies,
-  bluebonnets and many other wildflowers.
+publisher: {}
+description: 'Distance : 800 kms'
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>7 spring road trips to the most colorful flowers across America</h1><p>There are many clichés about spring, but their ubiquity doesn't diminish how beautiful the changing of the seasons can be. If you need a reminder for how great this season can be, we've got seven road trips across the United States that are perfect for stopping and smelling the roses - and the poppies, bluebonnets and many other wildflowers.</p><img src="http://rack.0.mshcdn.com/media/ZgkyMDE2LzA0LzEzLzFhLzk2NDgyNTE1NDguY2M4MzUuanBnCnAJdGh1bWIJMTIwMHg5NjAwPg/0694ce7b/090/9648251548_349c53f86c_o.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b17f7109-3ac5-4e7b-b02c-3d7f86507ce5.jpg)
+
+# Paris Amsterdam Trip Springs 2013 May
+
+Distance : 800 kms
+
+Difficulty : Law/Medium
+
+Steps : 6
