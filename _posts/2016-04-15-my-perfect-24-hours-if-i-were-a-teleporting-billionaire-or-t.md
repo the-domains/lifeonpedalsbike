@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T09:11:35.201Z'
+datePublished: '2016-08-08T09:13:00.105Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
@@ -20,15 +20,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-08T09:11:34.752Z'
+dateModified: '2016-08-08T09:12:59.671Z'
 title: 'My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away'
 app_links: []
-publisher:
-  name: Travel Away
-  domain: travelaway.me
-  url: 'http://travelaway.me'
-  favicon: >-
-    http://1dib1q3k1s3e11a5av3bhlnb.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/cropped-newfavta-192x192.png
+publisher: {}
 description: >-
   The purpose of my blog, that I want to inspire people to experience the beauty
   that we experience on our bikes and on our rides. It’s a wonderful thing. My
