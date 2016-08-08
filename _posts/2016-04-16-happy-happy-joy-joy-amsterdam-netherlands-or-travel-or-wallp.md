@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T08:47:21.122Z'
+datePublished: '2016-08-08T08:51:17.963Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -23,7 +23,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-08T08:47:20.601Z'
+dateModified: '2016-08-08T08:51:17.673Z'
 title: My bike trips homepage
 app_links: []
 publisher: {}
