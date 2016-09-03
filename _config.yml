@@ -1,6 +1,5 @@
-typography_spectrum: 0.13967404887080193
-content_rating:
-  adult: false
+layout_spectrum: 0.18003542511723936
+typography_spectrum: 0.024143290240317583
 color:
   brandStrength: 0.5791984845418483
   lightness: 0.8619726600591093
@@ -12,7 +11,8 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.5503620067611337
+content_rating:
+  adult: false
 author:
   name: Pankaj Sharma
   email: pankajsharma.blue@hotmail.com
