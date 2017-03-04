@@ -1,15 +1,15 @@
 ---
 inFeed: true
-description: "The Route. After crossing the border from France, at Irún, the coastal plain is followed, usually as far as Galicia before turning inland towards Santiago.\_ The main towns on the route are San Sebastián/Donastia, Bilbao, Castro Urdiales, Santander, Ribadesella, Gijón, Avilés, Luarca, Ribadeo, Mondoñedo, and Sobrado dos Monxes, joining the\_Camino francés at Arzua.\_ Total distance from Irún to Santiago de Compostela 825 km (depending on route chosen)."
-dateModified: '2017-03-04T14:37:37.711Z'
-datePublished: '2017-03-04T14:37:38.186Z'
+description: "The Route.\_After crossing the border from France, at Irún, the coastal plain is followed, usually as far as Galicia before turning inland towards Santiago.\_ The main towns on the route are San Sebastián/Donastia, Bilbao, Castro Urdiales, Santander, Ribadesella, Gijón, Avilés, Luarca, Ribadeo, Mondoñedo, and Sobrado dos Monxes, joining the\_Camino francés\_at Arzua.\_ Total distance from Irún to Santiago de Compostela 825 km (depending on route chosen)."
+dateModified: '2017-03-04T14:38:35.052Z'
+datePublished: '2017-03-04T14:38:36.012Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-04-the-route-after-crossing-the-border-from-france-at-irun-t.md
 starred: false
 datePublishedOriginal: '2017-03-04T14:37:38.186Z'
-sourcePath: _posts/2017-03-04-the-route-after-crossing-the-border-from-france-at-irun-t.md
 _type: Blurb
 
 ---
