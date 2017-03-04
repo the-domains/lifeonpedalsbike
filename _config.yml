@@ -45,7 +45,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -55,7 +54,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 analytics:
-  google: pankaj.purple@gmail.com
+  google: '92958184'
 purpose:
   - type: contact
     url: 'mailto:pankajsharma.blue@hotmail.com'
