@@ -27,7 +27,32 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/13401e8c-f943-45fd-ab19-d18905a788b2.ico
 title: Camino del Norte
 description: Step by Step to Santiago
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec803a1f-7d6b-479c-868f-f34c13ab87f2.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec803a1f-7d6b-479c-868f-f34c13ab87f2.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 analytics:
   google: pankaj.purple@gmail.com
