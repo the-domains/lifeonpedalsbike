@@ -31,3 +31,7 @@ content: []
 github: true
 analytics:
   google: pankaj.purple@gmail.com
+purpose:
+  - type: contact
+    url: 'mailto:pankajsharma.blue@hotmail.com'
+    label: Contact me
