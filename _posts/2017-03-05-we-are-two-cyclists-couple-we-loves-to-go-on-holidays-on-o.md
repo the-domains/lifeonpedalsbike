@@ -6,9 +6,9 @@ description: >-
   to keep the journal of my voyage. I will note down the details about the trip
   like route, accomondation wheather etc. Also I would like to share the photos
   of my voyage.
-dateModified: '2017-03-05T10:42:03.260Z'
-datePublished: '2017-03-05T10:42:03.704Z'
-title: Janine Sharma
+dateModified: '2017-03-05T10:44:53.326Z'
+datePublished: '2017-03-05T10:44:53.802Z'
+title: ''
 author: []
 publisher: {}
 via: {}
