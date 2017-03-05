@@ -7,8 +7,8 @@ description: >-
   Urdiales, Santander, Ribadesella, Gijón, Avilés, Luarca, Ribadeo, Mondoñedo,
   and Sobrado dos Monxes, joining the Camino francés at Arzua. Total distance
   from Irún to Santiago de Compostela 825 km (depending on route chosen).
-dateModified: '2017-03-05T10:43:26.844Z'
-datePublished: '2017-03-05T10:43:28.038Z'
+dateModified: '2017-03-05T10:46:05.122Z'
+datePublished: '2017-03-05T10:46:05.810Z'
 title: ''
 author: []
 publisher: {}
@@ -26,7 +26,10 @@ _type: Article
 Some pilgrims leave the coastal route at Villaviciosa to visit the largest Asturian monastery, and church of San Salvador (El Conventín), at Valdediós. They then continue to Oviedo where they join the _[Camino primitivo][0]_ to Lugo.
 
 So we have decided, that we will take overnight train from Paris to Baynone. The train allows cycles. It have sleeping births and they provide blanket. The train starts from the Gare Austriz at 21:50 and arrive 08:30 to Baynone. So that will allow us to bike whole day. To check and reserve the train you can follow the below link. The cycle lugage service is paid.
+
+[https://en.voyages-sncf.com/en/ ][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db259b04-1da3-43d9-bad1-e496dbae8f7f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d84797c-fa68-404a-b609-e7de371c5196.jpg)
 
 [0]: http://www.csj.org.uk/?page_id=227 "The Primitive Route"
+[1]: https://en.voyages-sncf.com/en/
