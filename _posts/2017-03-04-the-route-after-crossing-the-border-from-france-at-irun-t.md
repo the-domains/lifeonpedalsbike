@@ -7,8 +7,8 @@ description: >-
   Urdiales, Santander, Ribadesella, Gijón, Avilés, Luarca, Ribadeo, Mondoñedo,
   and Sobrado dos Monxes, joining the Camino francés at Arzua. Total distance
   from Irún to Santiago de Compostela 825 km (depending on route chosen).
-dateModified: '2017-03-04T15:07:10.463Z'
-datePublished: '2017-03-04T15:07:11.310Z'
+dateModified: '2017-03-05T10:04:54.839Z'
+datePublished: '2017-03-05T10:04:55.036Z'
 title: ''
 author: []
 publisher: {}
