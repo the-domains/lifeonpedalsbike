@@ -6,9 +6,9 @@ description: >-
   to keep the journal of my voyage. I will note down the details about the trip
   like route, accomondation wheather etc. Also I would like to share the photos
   of my voyage.
-dateModified: '2017-03-05T10:04:54.839Z'
-datePublished: '2017-03-05T10:04:55.037Z'
-title: Pankaj Sharma
+dateModified: '2017-03-05T10:42:03.260Z'
+datePublished: '2017-03-05T10:42:03.704Z'
+title: Janine Sharma
 author: []
 publisher: {}
 via: {}
@@ -22,5 +22,5 @@ _type: Article
 
 ---
 We are two cyclists Couple. We loves to go on holidays on our bikes. We have done lot of cycling holidays together. This is the first time, I am planning to keep the journal of my voyage. I will note down the details about the trip like route, accomondation wheather etc. Also I would like to share the photos of my voyage.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/378c3c89-70f4-4a12-9e2f-c2f5fb610d9b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b08927fa-1ce2-4cfa-aad8-b2600cac5b82.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e304495a-2939-4839-9346-029ba5d4572d.jpg)
