@@ -6,8 +6,8 @@ description: >-
   to keep the journal of my voyage. I will note down the details about the trip
   like route, accomondation wheather etc. Also I would like to share the photos
   of my voyage.
-dateModified: '2017-03-05T10:02:34.215Z'
-datePublished: '2017-03-05T10:02:34.755Z'
+dateModified: '2017-03-05T10:04:54.839Z'
+datePublished: '2017-03-05T10:04:55.037Z'
 title: Pankaj Sharma
 author: []
 publisher: {}
